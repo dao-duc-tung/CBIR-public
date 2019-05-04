@@ -1,8 +1,6 @@
 # Content-based Image Retrieval System
 
-Because of some personal reason, this project is not public
-
-This respository is only used for introducing purpose
+This is a private project. Some results are shown for demonstration purpose only.
 
 # Overview
 
